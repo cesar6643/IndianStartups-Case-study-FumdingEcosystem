@@ -1,4 +1,4 @@
-# IndianStartups-Case-study-FumdingEcosystem
+# IndianStartups-Case-study-FundingEcosystem
 ## Understanding some of the most Interesting Patterns of Funding and Startups.
 
 * **How Does the Funding Ecosystem changes with respect to Time?**
